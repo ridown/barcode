@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Ridown\\Barcode": "src/"
+            "Milon\\Barcode": "src/"
         }
     },
     "minimum-stability": "stable",
