@@ -25,11 +25,11 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Ridown\\Barcode\\BarcodeServiceProvider"
+                "Milon\\Barcode\\BarcodeServiceProvider"
             ],
             "aliases": {
-                "DNS1D": "Ridown\\Barcode\\Facades\\DNS1DFacade",
-                "DNS2D": "Ridown\\Barcode\\Facades\\DNS2DFacade"
+                "DNS1D": "Milon\\Barcode\\Facades\\DNS1DFacade",
+                "DNS2D": "Milon\\Barcode\\Facades\\DNS2DFacade"
             }
         }
     }
